@@ -72,4 +72,3 @@ angular.module('ui.bootstrap.demo').controller('DatepickerDemoCtrl', function ($
     return '';
   };
 });
-i am deepak Choudhary
